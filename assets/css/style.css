@@ -1,25 +1,16 @@
-/**
-* Template Name: Mentor - v4.7.0
-* Template URL: https://bootstrapmade.com/mentor-free-education-bootstrap-theme/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
 
-/*--------------------------------------------------------------
-# General
---------------------------------------------------------------*/
 body {
   font-family: "Open Sans", sans-serif;
-  color: #444444;
+  color:  #000080;
 }
 
 a {
-  color: #5fcf80;
+  color: #000099;
   text-decoration: none;
 }
 
 a:hover {
-  color: #86db9f;
+  color: #0000ff;
   text-decoration: none;
 }
 
@@ -37,7 +28,7 @@ h1, h2, h3, h4, h5, h6 {
   right: 15px;
   bottom: 15px;
   z-index: 996;
-  background: #5fcf80;
+  background: #000099;
   width: 40px;
   height: 40px;
   border-radius: 50px;
@@ -49,7 +40,7 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 0;
 }
 .back-to-top:hover {
-  background: #7ed899;
+  background:  #000080;
   color: #fff;
 }
 .back-to-top.active {
@@ -76,7 +67,7 @@ h1, h2, h3, h4, h5, h6 {
   position: fixed;
   top: calc(50% - 30px);
   left: calc(50% - 30px);
-  border: 6px solid #5fcf80;
+  border: 6px solid #000099;
   border-top-color: #fff;
   border-bottom-color: #fff;
   border-radius: 50%;
@@ -132,7 +123,7 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "Poppins", sans-serif;
 }
 #header .logo a {
-  color: #5fcf80;
+  color: #000099;
 }
 #header .logo img {
   max-height: 40px;
@@ -143,7 +134,7 @@ h1, h2, h3, h4, h5, h6 {
 */
 .get-started-btn {
   margin-left: 22px;
-  background: #5fcf80;
+  background: #000099;
   color: #fff;
   border-radius: 50px;
   padding: 8px 25px;
@@ -153,7 +144,7 @@ h1, h2, h3, h4, h5, h6 {
   display: inline-block;
 }
 .get-started-btn:hover {
-  background: #3ac162;
+  background:  #000080;
   color: #fff;
 }
 @media (max-width: 768px) {
@@ -200,7 +191,7 @@ h1, h2, h3, h4, h5, h6 {
   margin-left: 5px;
 }
 .navbar a:hover, .navbar .active, .navbar .active:focus, .navbar li:hover > a {
-  color: #5fcf80;
+  color: #000099;
 }
 .navbar .dropdown ul {
   display: block;
@@ -230,7 +221,7 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 12px;
 }
 .navbar .dropdown ul a:hover, .navbar .dropdown ul .active:hover, .navbar .dropdown ul li:hover > a {
-  color: #5fcf80;
+  color: #000099;
 }
 .navbar .dropdown:hover > ul {
   opacity: 1;
@@ -316,7 +307,7 @@ h1, h2, h3, h4, h5, h6 {
   color: #37423b;
 }
 .navbar-mobile a:hover, .navbar-mobile .active, .navbar-mobile li:hover > a {
-  color: #5fcf80;
+  color: #000099;
 }
 .navbar-mobile .getstarted, .navbar-mobile .getstarted:focus {
   margin: 15px;
@@ -342,7 +333,7 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 12px;
 }
 .navbar-mobile .dropdown ul a:hover, .navbar-mobile .dropdown ul .active:hover, .navbar-mobile .dropdown ul li:hover > a {
-  color: #5fcf80;
+  color: #000099;
 }
 .navbar-mobile .dropdown > .dropdown-active {
   display: block;
@@ -402,8 +393,8 @@ h1, h2, h3, h4, h5, h6 {
   color: #fff;
 }
 #hero .btn-get-started:hover {
-  background: #5fcf80;
-  border: 2px solid #5fcf80;
+  background: #000099;
+  border: 2px solid #000099;
 }
 @media (min-width: 1024px) {
   #hero {
@@ -471,7 +462,7 @@ section {
 .breadcrumbs {
   margin-top: 73px;
   text-align: center;
-  background: #5fcf80;
+  background: #000099;
   padding: 30px 0;
   color: #fff;
 }
@@ -506,10 +497,10 @@ section {
 .about .content ul i {
   font-size: 20px;
   padding-right: 4px;
-  color: #5fcf80;
+  color: #000099;
 }
 .about .content .learn-more-btn {
-  background: #5fcf80;
+  background: #000099;
   color: #fff;
   border-radius: 50px;
   padding: 8px 25px 9px 25px;
@@ -519,7 +510,7 @@ section {
   display: inline-block;
 }
 .about .content .learn-more-btn:hover {
-  background: #3ac162;
+  background:  #000080;
   color: #fff;
 }
 @media (max-width: 768px) {
@@ -538,7 +529,7 @@ section {
 .counts .counters span {
   font-size: 48px;
   display: block;
-  color: #5fcf80;
+  color: #000099;
   font-weight: 700;
 }
 .counts .counters p {
@@ -555,7 +546,7 @@ section {
 --------------------------------------------------------------*/
 .why-us .content {
   padding: 30px;
-  background: #5fcf80;
+  background: #000099;
   border-radius: 4px;
   color: #fff;
 }
@@ -579,7 +570,7 @@ section {
   font-size: 14px;
 }
 .why-us .content .more-btn:hover {
-  color: #5fcf80;
+  color: #000099;
   background: #fff;
 }
 .why-us .icon-boxes .icon-box {
@@ -592,7 +583,7 @@ section {
 .why-us .icon-boxes .icon-box i {
   font-size: 32px;
   padding: 18px;
-  color: #5fcf80;
+  color: #000099;
   margin-bottom: 30px;
   background: #ecf9f0;
   border-radius: 50px;
@@ -637,10 +628,10 @@ section {
   transition: 0.3s;
 }
 .features .icon-box:hover {
-  border-color: #5fcf80;
+  border-color: #000099;
 }
 .features .icon-box:hover h3 a {
-  color: #5fcf80;
+  color: #000099;
 }
 
 /*--------------------------------------------------------------
@@ -662,7 +653,7 @@ section {
   transition: 0.3s;
 }
 .courses .course-content h3 a:hover {
-  color: #5fcf80;
+  color: #000099;
 }
 .courses .course-content p {
   font-size: 14px;
@@ -670,7 +661,7 @@ section {
 }
 .courses .course-content h4 {
   font-size: 14px;
-  background: #5fcf80;
+  background: #000099;
   padding: 7px 14px;
   color: #fff;
   margin: 0;
@@ -735,11 +726,11 @@ section {
   margin-top: 15px;
 }
 .trainers .member .social a {
-  color: #7e9486;
+  color:  #000080;
   transition: 0.3s;
 }
 .trainers .member .social a:hover {
-  color: #5fcf80;
+  color: #000099;
 }
 .trainers .member .social i {
   font-size: 18px;
@@ -810,10 +801,10 @@ section {
   height: 12px;
   background-color: #fff;
   opacity: 1;
-  border: 1px solid #5fcf80;
+  border: 1px solid #000099;
 }
 .testimonials .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #5fcf80;
+  background-color: #000099;
 }
 @media (max-width: 767px) {
   .testimonials .testimonial-wrap {
@@ -858,7 +849,7 @@ section {
   display: block;
   width: 60px;
   height: 1px;
-  background: #5fcf80;
+  background: #000099;
   bottom: 0;
   left: 0;
 }
@@ -902,11 +893,11 @@ section {
   font-size: 15px;
 }
 .cource-details-tabs .nav-link:hover {
-  color: #5fcf80;
+  color: #000099;
 }
 .cource-details-tabs .nav-link.active {
-  color: #5fcf80;
-  border-color: #5fcf80;
+  color: #000099;
+  border-color: #000099;
 }
 .cource-details-tabs .tab-pane.active {
   -webkit-animation: fadeIn 0.5s ease-out;
@@ -931,7 +922,7 @@ section {
   }
   .cource-details-tabs .nav-link.active {
     color: #fff;
-    background: #5fcf80;
+    background: #000099;
   }
 }
 
@@ -984,16 +975,16 @@ section {
   transition: 0.3s;
 }
 .events .read-more a:hover {
-  color: #5fcf80;
+  color: #000099;
 }
 .events .card:hover img {
   transform: scale(1.1);
 }
 .events .card:hover .card-body {
-  border-color: #5fcf80;
+  border-color: #000099;
 }
 .events .card:hover .card-body .card-title a {
-  color: #5fcf80;
+  color: #000099;
 }
 
 /*--------------------------------------------------------------
@@ -1019,7 +1010,7 @@ section {
 }
 .pricing h4 {
   font-size: 36px;
-  color: #5fcf80;
+  color: #000099;
   font-weight: 600;
   font-family: "Poppins", sans-serif;
   margin-bottom: 20px;
@@ -1037,7 +1028,7 @@ section {
 .pricing ul {
   padding: 0;
   list-style: none;
-  color: #444444;
+  color:  #000080;
   text-align: center;
   line-height: 20px;
   font-size: 14px;
@@ -1046,7 +1037,7 @@ section {
   padding-bottom: 16px;
 }
 .pricing ul i {
-  color: #5fcf80;
+  color: #000099;
   font-size: 18px;
   padding-right: 4px;
 }
@@ -1061,7 +1052,7 @@ section {
   text-align: center;
 }
 .pricing .btn-buy {
-  background: #5fcf80;
+  background: #000099;
   display: inline-block;
   padding: 8px 35px;
   border-radius: 50px;
@@ -1074,11 +1065,11 @@ section {
   transition: 0.3s;
 }
 .pricing .btn-buy:hover {
-  background: #3ac162;
+  background:  #000080;
 }
 .pricing .featured h3 {
   color: #fff;
-  background: #5fcf80;
+  background: #000099;
 }
 .pricing .advanced {
   width: 200px;
@@ -1089,7 +1080,7 @@ section {
   z-index: 1;
   font-size: 14px;
   padding: 1px 0 3px 0;
-  background: #5fcf80;
+  background: #000099;
   color: #fff;
 }
 
@@ -1105,7 +1096,7 @@ section {
 }
 .contact .info i {
   font-size: 20px;
-  color: #5fcf80;
+  color: #000099;
   float: left;
   width: 44px;
   height: 44px;
@@ -1133,7 +1124,7 @@ section {
   margin-top: 40px;
 }
 .contact .info .email:hover i, .contact .info .address:hover i, .contact .info .phone:hover i {
-  background: #5fcf80;
+  background: #000099;
   color: #fff;
 }
 .contact .php-email-form {
@@ -1146,7 +1137,7 @@ section {
 .contact .php-email-form .error-message {
   display: none;
   color: #fff;
-  background: #ed3c0d;
+  background: #0000ff;
   text-align: left;
   padding: 15px;
   font-weight: 600;
@@ -1157,7 +1148,7 @@ section {
 .contact .php-email-form .sent-message {
   display: none;
   color: #fff;
-  background: #18d26e;
+  background:  #000080;
   text-align: center;
   padding: 15px;
   font-weight: 600;
@@ -1175,7 +1166,7 @@ section {
   width: 24px;
   height: 24px;
   margin: 0 10px -6px 0;
-  border: 3px solid #18d26e;
+  border: 3px solid  #000080;
   border-top-color: #eee;
   -webkit-animation: animate-loading 1s linear infinite;
   animation: animate-loading 1s linear infinite;
@@ -1186,7 +1177,7 @@ section {
   font-size: 14px;
 }
 .contact .php-email-form input:focus, .contact .php-email-form textarea:focus {
-  border-color: #5fcf80;
+  border-color: #000099;
 }
 .contact .php-email-form input {
   height: 44px;
@@ -1195,7 +1186,7 @@ section {
   padding: 10px 12px;
 }
 .contact .php-email-form button[type=submit] {
-  background: #5fcf80;
+  background: #000099;
   border: 0;
   padding: 10px 35px;
   color: #fff;
@@ -1203,7 +1194,7 @@ section {
   border-radius: 50px;
 }
 .contact .php-email-form button[type=submit]:hover {
-  background: #3ac162;
+  background:  #000080;
 }
 @-webkit-keyframes animate-loading {
   0% {
@@ -1254,7 +1245,7 @@ section {
 #footer .footer-top h4 {
   font-size: 16px;
   font-weight: bold;
-  color: #444444;
+  color:  #000080;
   position: relative;
   padding-bottom: 12px;
 }
@@ -1268,7 +1259,7 @@ section {
 }
 #footer .footer-top .footer-links ul i {
   padding-right: 2px;
-  color: #5fcf80;
+  color: #000099;
   font-size: 18px;
   line-height: 1;
 }
@@ -1288,7 +1279,7 @@ section {
 }
 #footer .footer-top .footer-links ul a:hover {
   text-decoration: none;
-  color: #5fcf80;
+  color: #000099;
 }
 #footer .footer-newsletter {
   font-size: 15px;
@@ -1296,7 +1287,7 @@ section {
 #footer .footer-newsletter h4 {
   font-size: 16px;
   font-weight: bold;
-  color: #444444;
+  color:  #000080;
   position: relative;
   padding-bottom: 12px;
 }
@@ -1323,30 +1314,30 @@ section {
   background: none;
   font-size: 16px;
   padding: 0 20px 2px 20px;
-  background: #5fcf80;
+  background: #000099;
   color: #fff;
   transition: 0.3s;
   border-radius: 50px;
   box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.1);
 }
 #footer .footer-newsletter form input[type=submit]:hover {
-  background: #3ac162;
+  background:  #000080;
 }
 #footer .credits {
   padding-top: 5px;
   font-size: 13px;
 }
 #footer .credits a {
-  color: #3ac162;
+  color:  #000080;
   transition: 0.3s;
 }
 #footer .credits a:hover {
-  color: #5fcf80;
+  color: #000099;
 }
 #footer .social-links a {
   font-size: 18px;
   display: inline-block;
-  background: #5fcf80;
+  background: #000099;
   color: #fff;
   line-height: 1;
   padding: 8px 0;
@@ -1358,7 +1349,7 @@ section {
   transition: 0.3s;
 }
 #footer .social-links a:hover {
-  background: #3ac162;
+  background:  #000080;
   color: #fff;
   text-decoration: none;
 }

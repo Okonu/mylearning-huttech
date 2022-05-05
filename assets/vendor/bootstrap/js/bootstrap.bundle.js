@@ -3352,7 +3352,7 @@
   // Composite means it takes into account transforms as well as layout.
 
 
-  function getCompositeRect(elementOrVirtualElement, offsetParent, isFixed) {
+  function getCompositeRect(eleHutTechVirtualElement, offsetParent, isFixed) {
     if (isFixed === void 0) {
       isFixed = false;
     }
@@ -3360,7 +3360,7 @@
     var isOffsetParentAnElement = isHTMLElement(offsetParent);
     isHTMLElement(offsetParent) && isElementScaled(offsetParent);
     var documentElement = getDocumentElement(offsetParent);
-    var rect = getBoundingClientRect(elementOrVirtualElement);
+    var rect = getBoundingClientRect(eleHutTechVirtualElement);
     var scroll = {
       scrollLeft: 0,
       scrollTop: 0

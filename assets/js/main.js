@@ -1,8 +1,8 @@
 /**
-* Template Name: Mentor - v4.7.0
-* Template URL: https://bootstrapmade.com/mentor-free-education-bootstrap-theme/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
+* Template Name: HutTech - v4.7.0
+* Template URL: https://HutTech.com/HutTech-free-education-bootstrap-theme/
+* Author: HutTech.com
+* License: https://HutTech.com/license/
 */
 (function() {
   "use strict";
